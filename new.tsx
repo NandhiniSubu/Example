@@ -1,3 +1,2 @@
-console.log("Sathya C New State");
-console.log("iam new changes")
-console.log("iam new changes 2")
+console.log("Sathya C New State new update");
+console.log("iam new changes");
